@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_GeoQuizz</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="rpta_si">si</string>
+    <string name="rpta_no">no</string>
+    <string name="btnext">SIGUIENTE</string>
+</resources>
