@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemHome"
+        android:icon="@drawable/restaurant"
+        android:title="@string/home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemFavorites"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/favorites"
+        app:showAsAction="ifRoom" />
+</menu>
