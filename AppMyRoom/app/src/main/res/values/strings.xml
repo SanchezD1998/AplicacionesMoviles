@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppMyRoom</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_ingrese_nombre">Ingrese nombre</string>
+    <string name="hint_ingrese_telefono">Ingrese telefono</string>
+    <string name="item_guardar">Guardar</string>
+    <string name="item_eliminar">Eliminar</string>
+</resources>
