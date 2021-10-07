@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_room</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="telefono">Ingrese Telefono</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="a_adir">Añadir</string>
+</resources>
